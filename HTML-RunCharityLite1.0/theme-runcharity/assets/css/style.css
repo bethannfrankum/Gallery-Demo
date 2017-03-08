@@ -1693,3 +1693,7 @@ screen and (max-height:300px) {
         margin: 0;
     }
 }
+
+.modal-backdrop {
+    z-index: 100 !important;
+}
